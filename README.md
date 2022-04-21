@@ -17,6 +17,7 @@ you can self-host by editing the ```config.json``` file.
     "clientSecret": "oauth-client-id-osu!",
     "osuApiKey": "osu!-apiv1-key"
 }
+```
 
 
 
