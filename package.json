@@ -1,7 +1,7 @@
 {
-    "name": "miko",
+    "name": "miko-bot",
     "version": "1.0.0",
-    "description": "bot privado - miko's gang",
+    "description": "bot - miko's gang",
     "main": "index.js",
     "scripts": {
         "start": "node index.js; node ./SlashCommands/info/help.js",
