@@ -14,7 +14,7 @@ you can self-host by editing the ```config.json``` file. expect some errors, thi
     "strikeslogchannel": "id-of-strikes-log-actions",
     "guild": "id-of-the-guild",
     "clientId": "oauth-client-id-osu!",
-    "clientSecret": "oauth-client-id-osu!",
+    "clientSecret": "oauth-client-secret-osu!",
     "osuApiKey": "osu!-apiv1-key"
 }
 ```
