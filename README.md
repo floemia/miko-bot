@@ -1,5 +1,5 @@
 # miko-bot
-(WIP) miko's gang discord server bot
+(WIP) miko's gang discord server bot (lang = spanish)
 
 you can self-host by editing the ```config.json``` file. expect some errors, this is a wip project.
 ```
