@@ -19,7 +19,7 @@ you can self-host by editing the ```config.json``` file. expect some errors, thi
 }
 ```
 
-bot runs on nodejs v17.9.0
+bot runs on nodejs v17.9.0 and rust (for osu!api v2 interaction)
 
 before running, use
 ```
